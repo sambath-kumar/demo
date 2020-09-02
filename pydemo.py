@@ -8,11 +8,6 @@ while i==10:
 A = int(input("Enter a first value:"))
 B = int(input("Enter a second value:"))
 
-if A == B:
-    print("Both values are same")
-elif a>b:
-    print("A is large")
-else:
-    print("B is large")
+print("Addition of A and B is ", A+B)
     
   
